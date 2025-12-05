@@ -792,8 +792,8 @@
             <h3>Quick Contact Info</h3>
             <ul class="info-list">
               <!-- TODO: Nimn jagah apni details daalein -->
-              <li><strong>Mobile:</strong> +91-XXXXXXXXXX</li>
-              <li><strong>Alternate Mobile:</strong> +91-YYYYYYYYYY</li>
+              <li><strong>Mobile:</strong> +91-8233801367</li>
+              <li><strong>Alternate Mobile:</strong> +91-8233801367</li>
               <li><strong>Email:</strong> yourmail@example.com</li>
               <li><strong>Facebook Page:</strong> RJ Emitra & CSC Center (agar ho to)</li>
               <li><strong>WhatsApp Broadcast:</strong> Offers & updates ke liye WhatsApp par “Hi” bhejein.</li>
