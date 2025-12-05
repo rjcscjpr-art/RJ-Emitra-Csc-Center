@@ -598,7 +598,7 @@
 
         <div class="about-grid">
           <div class="about-card">
-            <h3><!-- TODO: Suresh Choudhary -->Online Service Provider: <span style="font-weight:600;">Shri _______ ji</span></h3>
+            <h3><!-- TODO: Suresh Choudhary -->Online Service Provider: <span style="font-weight:600;">Shri Suresh ji</span></h3>
             <p>
               RJ Emitra & CSC Center par hum aapke har tarah ke online aur डिजिटल kaam ko surakshit tarike se
               complete karte hain.
