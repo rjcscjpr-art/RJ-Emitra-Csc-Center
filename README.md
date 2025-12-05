@@ -495,7 +495,7 @@
     <div class="container nav">
       <div class="logo">
         <span>RJ EMITRA & CSC</span>
-        <span><!-- TODO: Yahan apne center ka naam thoda detail me likhen -->RJ Emitra & CSC Center</span>
+        <span><!-- TODO: RJ Emitra & Csc Center in Niwaru Jaipur - 302012 -->RJ Emitra & CSC Center</span>
       </div>
 
       <nav class="nav-links">
@@ -546,13 +546,13 @@
             </a>
             <a href="https://wa.me/918233801367?text=Namaste%20RJ%20Emitra%20%26%20CSC%20Center%2C%20mujhe%20ek%20seva%20chahiye" class="btn btn-outline" target="_blank" rel="noopener">
               <i class="fa-brands fa-whatsapp"></i>
-              WhatsApp Message
+              WhatsApp Message on - 8233801367
             </a>
           </div>
 
           <div class="hero-note">
             <i class="fa-solid fa-clock"></i>
-            <span><!-- TODO: Timing change karein -->Rozana: Subah 9:00 se Shaam 7:00 baje tak (Sunday half day)</span>
+            <span><!-- TODO: Timing change karein -->Rozana: Subah 9:00 se रात 8:00 baje tak (Sunday half day)</span>
           </div>
         </div>
 
@@ -565,7 +565,7 @@
             </li>
             <li>
               <i class="fa-solid fa-id-card"></i>
-              <span>Aadhaar update / print, PAN card apply, voter ID services.</span>
+              <span>Aadhaar Address Update / print, PAN card apply, voter ID services.</span>
             </li>
             <li>
               <i class="fa-solid fa-building-columns"></i>
@@ -577,7 +577,7 @@
             </li>
             <li>
               <i class="fa-solid fa-file-lines"></i>
-              <span>Scholarship, online forms, e-Mitra se judi sabhi सेवाएँ.</span>
+              <span>Scholarship, online forms, e-Mitra & CSC se judi sabhi सेवाएँ.</span>
             </li>
           </ul>
         </aside>
@@ -598,7 +598,7 @@
 
         <div class="about-grid">
           <div class="about-card">
-            <h3><!-- TODO: Center owner ka naam -->Online Service Provider: <span style="font-weight:600;">Shri _______ ji</span></h3>
+            <h3><!-- TODO: Suresh Choudhary -->Online Service Provider: <span style="font-weight:600;">Shri _______ ji</span></h3>
             <p>
               RJ Emitra & CSC Center par hum aapke har tarah ke online aur डिजिटल kaam ko surakshit tarike se
               complete karte hain.
@@ -759,7 +759,7 @@
               <strong>Nearby landmark:</strong> Bharat Mata Chowk.
             </p>
             <div class="contact-actions">
-              <!-- TODO: Phone & WhatsApp update karein -->
+              <!-- TODO: 8233801367 -->
               <a href="tel:+918233801367" class="btn btn-primary">
                 <i class="fa-solid fa-phone"></i>
                 Call Center
