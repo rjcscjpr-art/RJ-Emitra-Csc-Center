@@ -1000,7 +1000,7 @@
               <li><strong>Mobile:</strong> +91-8233801367</li>
               <li><strong>Alternate Mobile:</strong> +91-8233801367</li>
               <li><strong>Email:</strong> rjcscjpr@gmail.com</li>
-              <li><strong>Facebook Page:</strong> RJ Emitra & CSC Center ([agar ho to]**(https://www.facebook.com/profile.php?id=61583592246413)**)</li>
+              <li><strong>Facebook Page:</strong> RJ Emitra & CSC Center Follow on fb - *rjcscjpr **(https://www.facebook.com/profile.php?id=61583592246413)**)</li>
               <li><strong>WhatsApp Broadcast:</strong> Offers & updates ke liye WhatsApp par “Hi” bhejein.</li>
             </ul>
           </div>
